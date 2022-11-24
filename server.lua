@@ -1,0 +1,1 @@
+print("ReducedNPCs loaded! Made by Plocks (https://github.com/Plocks2020)")
